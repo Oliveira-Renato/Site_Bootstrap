@@ -1,0 +1,58 @@
+*
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar
+{
+    padding: 20px;
+    background-color: #17202A ;
+    border-bottom: 1px solid #3333;
+}
+
+.collapse .nav-item .nav-link{
+    color: aliceblue;
+    font-size: 20px;
+    padding: 30px;
+}
+.quem-somos
+{
+    background-color: #34495E;
+}
+.quem-somos .title-qs
+{
+    
+    color: whitesmoke;
+    font-weight: lighter;
+    margin: 0;
+}
+.quem-somos .title-qs .pod
+{
+    font-size: 15px;
+}
+.margin
+{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.container-fluid-2
+{
+    padding: 0;
+}
+.img-qs
+{
+    max-width: 100%;
+    width: fit-content;
+    
+}
+.rodape
+{
+    background-color: #17202A ;
+}
+.rodape .margin-2
+{
+    color: whitesmoke;
+    margin: 0;
+    padding: 12px;
+    justify-content:center;
+    font-size: 18px;
+}

@@ -2,6 +2,11 @@
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+body
+{
+    max-width: 100%;
+    overflow-x: hidden
+}
 .navbar
 {
     padding: 20px;
@@ -55,4 +60,14 @@
     padding: 12px;
     justify-content:center;
     font-size: 18px;
+}
+.parceiros
+{
+    padding-bottom: 100px;
+}
+.row-servicos
+{
+    font-weight: lighter;
+    padding-top: 20px;
+    color: whitesmoke;
 }
